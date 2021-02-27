@@ -1,1 +1,1 @@
-# solo_project
+# vacation_project
